@@ -2,5 +2,7 @@
 name = "conveyer_belt"
 version = "0.0.1"
 authors = ["Jon Moss <me@jonathanmoss.me>"]
+description = "A Docker reverse proxy written in Rust."
+license = "MIT"
 
 [dependencies]
